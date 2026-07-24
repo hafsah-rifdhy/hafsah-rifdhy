@@ -4,9 +4,7 @@
 
 ### 💻 BIT Undergraduate • 🌐 Aspiring Full-Stack Developer • 🎨 UI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Frontend+Developer;Learning+Full-Stack+Development;Building+Projects+One+Step+at+a+Time+🚀" alt="Typing SVG" />
-
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Frontend+Developer;Learning+Full-Stack+Development;Building+Projects+One+Step+at+a+Time)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=hafsah-rifdhy&style=for-the-badge&color=8B5CF6)
 
@@ -16,9 +14,11 @@
 
 # 👩‍💻 About Me
 
-🎓 Bachelor of Information Technology (BIT) Undergraduate
+🎓 I'm currently pursuing a **Bachelor of Information Technology (BIT)**.
 
-🌱 Currently learning:
+💜 I enjoy creating clean, responsive, and user-friendly web applications.
+
+🌱 **Currently Learning**
 
 - React.js
 - Next.js
@@ -26,27 +26,25 @@
 - TypeScript
 - Tailwind CSS
 
-💡 Passionate about building responsive, user-friendly websites and continuously learning new technologies.
-
-🚀 Working towards becoming a Full-Stack Web Developer through real-world projects.
+🚀 My goal is to become a **Full-Stack Web Developer** by continuously building real-world projects and improving my skills.
 
 ---
 
-# 🚀 Tech Stack
+# 💻 Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,php,cs,mysql" />
 </p>
 
-### ⚙️ Frameworks & Tools
+### Frameworks & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=bootstrap,git,github,vscode,visualstudio" />
 </p>
 
-### 📚 Currently Learning
+### Currently Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,tailwind" />
@@ -54,7 +52,7 @@
 
 ---
 
-# 📂 Featured Projects
+# 🚀 Featured Projects
 
 ## 🌦️ Weather App
 
@@ -65,20 +63,19 @@ A modern weather application built using:
 - JavaScript
 - Weather API
 
-### Features
+**Features**
 
-- Search any city
-- Current weather
-- Temperature
-- Humidity
-- Wind Speed
-- Responsive Design
+- 🔍 Search any city
+- 🌡️ Live temperature
+- 💧 Humidity
+- 💨 Wind speed
+- 📱 Responsive Design
 
 ---
 
 ## ✅ To-Do List App
 
-A productivity application with:
+A feature-rich productivity app including:
 
 - 🌙 Dark & Light Mode
 - 🎨 Priority Colors
@@ -93,14 +90,13 @@ A productivity application with:
 
 ## 🛒 Mini Marketplace
 
-Built using **ASP.NET Core MVC**
+Built with **ASP.NET Core MVC**
 
-Features include:
+Features:
 
-- Multi-Vendor Marketplace
-- Authentication
+- Customer & Seller Accounts
 - Shopping Cart
-- Seller Dashboard
+- Authentication
 - Admin Dashboard
 - SQL Server Database
 
@@ -108,108 +104,114 @@ Features include:
 
 ## 🍰 Bakery Management System
 
-Desktop application built with **C#** and **SQL Server**
+Desktop application developed with **C#** and **SQL Server**
 
 Features:
 
 - Inventory Management
 - Billing System
-- Employee Management
 - Customer Orders
+- Employee Management
 - Reports
 
 ---
 
 # 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=hafsah-rifdhy&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafsah-rifdhy&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
-<p align="center">
+<br>
+
+<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafsah-rifdhy&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hafsah-rifdhy&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=hafsah-rifdhy&theme=tokyonight&no-frame=true&margin-w=12"/>
 
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hafsah-rifdhy&theme=tokyo-night"/>
 
-</p>
+</div>
 
 ---
 
 # 🌱 Currently Working On
 
-- 💻 Full Stack Development
+- 💻 Full-Stack Development
 - ⚛️ React Projects
 - 🎨 UI/UX Design
 - 📱 Responsive Web Applications
-- 🚀 Expanding My Portfolio
+- 🚀 Growing My Portfolio
 
 ---
 
-# 🎯 Goals for 2026
+# 🎯 Goals
 
-- ✅ Build 15+ web development projects
+- ✅ Build more real-world web applications
 - ✅ Master React & Next.js
 - ✅ Learn backend development with Node.js
 - ✅ Contribute to open-source projects
-- ✅ Land a Full-Stack Developer role
+- ✅ Start my career as a Full-Stack Developer
 
 ---
 
 # 📫 Connect With Me
 
-<p>
+<p align="left">
 
 <a href="https://github.com/hafsah-rifdhy">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/f-h-rifdhy-2429bb419">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="mailto:hafsahmrifdhy@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 </p>
+
+📧 **Email:** hafsahmrifdhy@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/f-h-rifdhy-2429bb419
 
 ---
 
 # ⚡ Fun Fact
 
-💜 I enjoy turning ideas into clean, responsive, and user-friendly web applications while continuously exploring new technologies.
+💜 I love transforming ideas into clean, responsive, and user-friendly web applications while continuously exploring new technologies.
 
 ---
 
 <div align="center">
 
-## ✨ Thanks for visiting my profile!
+## ✨ Thanks for stopping by!
 
-*"Every expert was once a beginner. Keep learning, keep building."* 🚀
+*"Every expert was once a beginner. Keep learning, keep building, and enjoy the journey."* 🚀
 
-⭐ If you like my projects, consider giving them a star!
+⭐ If you enjoy my projects, feel free to give them a star!
 
 </div>
