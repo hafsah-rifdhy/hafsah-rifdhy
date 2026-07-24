@@ -4,21 +4,21 @@
 
 ### 💻 BIT Undergraduate • 🌐 Aspiring Full-Stack Developer • 🎨 UI Enthusiast
 
-> *Building responsive websites, learning modern technologies, and turning ideas into real-world projects.*
+*"Building responsive websites, learning modern technologies, and turning ideas into real-world projects."*
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hafsah-rifdhy&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=hafsah-rifdhy&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-🎓 I'm currently pursuing a **Bachelor of Information Technology (BIT)**.
+🎓 Bachelor of Information Technology (BIT) Undergraduate
 
-💜 Passionate about **Web Development**, **UI Design**, and creating clean, responsive websites.
+💜 Passionate about **Web Development**, **UI/UX Design**, and building responsive web applications.
 
 🌱 **Currently Learning**
 
@@ -28,28 +28,28 @@
 - 🔷 TypeScript
 - 💨 Tailwind CSS
 
-🚀 My goal is to become a **Full-Stack Web Developer** by continuously learning and building meaningful projects.
+🚀 My goal is to become a **Full-Stack Web Developer** while continuously learning and building impactful projects.
 
 ---
 
-# 💻 Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,cs,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,cs,mysql" />
 </p>
 
-### Frameworks & Tools
+### ⚙️ Frameworks & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=bootstrap,git,github,vscode,visualstudio" />
+<img src="https://skillicons.dev/icons?i=bootstrap,git,github,vscode,visualstudio" />
 </p>
 
-### Currently Learning
+### 📚 Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,tailwind" />
 </p>
 
 ---
@@ -58,21 +58,21 @@
 
 ## 🌦️ Weather App
 
-A modern weather application built with **HTML, CSS & JavaScript**.
+A responsive weather application built using **HTML, CSS, and JavaScript**.
 
-**Features**
+✨ Features
 
 - 🔍 Search any city
-- 🌡️ Live Weather
+- 🌡️ Live weather updates
 - 💧 Humidity
-- 💨 Wind Speed
-- 📱 Responsive Design
+- 💨 Wind speed
+- 📱 Responsive design
 
 ---
 
 ## ✅ To-Do List App
 
-A productivity app featuring:
+A modern productivity application featuring:
 
 - 🌙 Dark & Light Mode
 - 🎨 Priority Levels
@@ -81,13 +81,13 @@ A productivity app featuring:
 - 📊 Progress Tracking
 - 🔍 Search & Filter
 - 🎉 Celebration Animation
-- 📱 Fully Responsive
+- 📱 Responsive Design
 
 ---
 
 ## 🛒 Mini Marketplace
 
-Built using **ASP.NET Core MVC**
+Developed using **ASP.NET Core MVC**
 
 Features:
 
@@ -114,7 +114,7 @@ Features:
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Stats
 
 <div align="center">
 
@@ -124,27 +124,25 @@ Features:
 
 </div>
 
-> **Note:** If these stats don't appear immediately, give GitHub a little time after creating your profile repository. They usually start working after a short while.
-
 ---
 
 # 🌱 Currently Working On
 
 - 💻 Full-Stack Development
-- ⚛️ React Projects
+- ⚛️ React.js Projects
 - 🎨 UI/UX Design
-- 📱 Responsive Web Applications
+- 📱 Responsive Websites
 - 🚀 Expanding My Portfolio
 
 ---
 
 # 🎯 Goals
 
-- ✅ Build more real-world web applications
-- ✅ Master React & Next.js
+- ✅ Build 15+ real-world projects
+- ✅ Master React.js & Next.js
 - ✅ Learn Backend Development with Node.js
 - ✅ Contribute to Open Source
-- ✅ Begin my career as a Full-Stack Developer
+- ✅ Start my career as a Full-Stack Developer
 
 ---
 
@@ -153,36 +151,38 @@ Features:
 <p align="left">
 
 <a href="https://github.com/hafsah-rifdhy">
-  <img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
 </a>
 
 <a href="https://www.linkedin.com/in/f-h-rifdhy-2429bb419">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
 
 <a href="mailto:hafsahmrifdhy@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
 </a>
 
 </p>
 
-📧 **Email:** **hafsahmrifdhy@gmail.com**
+📧 **Email:** hafsahmrifdhy@gmail.com
 
-💼 **LinkedIn:** **https://www.linkedin.com/in/f-h-rifdhy-2429bb419**
+💼 **LinkedIn:** https://www.linkedin.com/in/f-h-rifdhy-2429bb419
 
 ---
 
 # 💜 Fun Fact
 
-I enjoy turning ideas into clean, responsive, and user-friendly web applications while continuously learning new technologies.
+I enjoy transforming ideas into clean, responsive, and user-friendly web applications while continuously learning new technologies.
+
+Outside of coding, I love exploring new design ideas and building projects that help me grow as a developer.
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile!
 
-*"Every expert was once a beginner. Keep learning, keep building, and enjoy the journey."*
+*"Every expert was once a beginner. Keep learning, keep building, and enjoy the journey."* 🚀
 
 If you like my projects, feel free to ⭐ my repositories!
 
